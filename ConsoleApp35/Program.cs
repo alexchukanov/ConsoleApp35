@@ -14,6 +14,7 @@ namespace ConsoleApp35
     // {"abcadebc"} = 3 (a,b,c)
     // { "ab", "bc","ca", "ad","de","eb","bc" } = 1 (bc)
     // { "abc", "bca", "cad", "ade", "deb", "ebc"} = 0
+    // { "abca", "debc"} = 0
     // Number of coincedence = 4
 
     internal class Program
