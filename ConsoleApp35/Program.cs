@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp35
 {
-    // input string = "abcade"
+    // input string = "abcadebc"
 
     // test case
     // coincedence:
